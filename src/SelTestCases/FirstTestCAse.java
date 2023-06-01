@@ -32,6 +32,8 @@ public class FirstTestCAse {
        System.out.println("successfully dropped");
        
        driver.switchTo().defaultContent();
+       
+       System.out.println("This is first test case");
 	
 	}
    
